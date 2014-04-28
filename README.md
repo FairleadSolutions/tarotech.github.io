@@ -1,0 +1,2 @@
+# Tarotech
+Predicative Technologies
